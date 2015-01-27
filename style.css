@@ -18,7 +18,10 @@ margin:50px;
 padding: 5px;
 display: inline-block;
  }
- 
+
+nav a:hover{
+ background-color: #8BC34A;
+} 
  h3{
 font-size:30px;
 font-family:Georgia;
