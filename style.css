@@ -28,6 +28,10 @@ nav a:hover{
 } 
 header {
  text-align: center;
+ 
+}
+header h1{
+ font-family: 'Satisfy', cursive;
 }
 header img{
  border-radius: 50%;
