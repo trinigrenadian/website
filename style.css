@@ -26,12 +26,13 @@ nav a:hover{
  background-color: #8BC34A;
  transition: 1s all;
 } 
+header {
+ text-align: center;
+}
 header img{
  border-radius: 50%;
 }
-header {
- text-align:center;
-}
+
  h3{
 font-size:30px;
 font-family:Georgia;
