@@ -26,6 +26,9 @@ nav a:hover{
  background-color: #8BC34A;
  transition: 1s all;
 } 
+header img{
+ border-radius: 50%;
+}
  h3{
 font-size:30px;
 font-family:Georgia;
