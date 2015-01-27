@@ -9,6 +9,8 @@ body {
   border-radius:black;
   margin:5px;
   padding: 5px;
+  display: inline-block;
+  transition: 2s all;
  }
  h2{
 font-size:72px;
