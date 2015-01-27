@@ -2,6 +2,14 @@ body {
  background-color: amber;
 }
  
+ nav a{
+  text-decoration:none;
+  color: #CDDC39;
+  background-color:#F0F4CE;
+  border-radius:black;
+  margin:5px;
+  padding: 5px;
+ }
  h2{
 font-size:72px;
 font-family:Georgia;
