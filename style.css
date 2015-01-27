@@ -29,6 +29,9 @@ nav a:hover{
 header img{
  border-radius: 50%;
 }
+header {
+ text-align:center;
+}
  h3{
 font-size:30px;
 font-family:Georgia;
