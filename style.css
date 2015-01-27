@@ -54,9 +54,8 @@ section{
 button{
   color: #CDDC39;
   background-color:#F0F4CE;
+  border:none;
   border-radius:black;
-  margin:5px;
   padding: 5px;
-  display: inline-block;
   transition: 2s all;
 }
