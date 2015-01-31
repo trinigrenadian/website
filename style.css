@@ -47,7 +47,8 @@ font-size:30px;
 font-family:Georgia;
 color:#00796B;
  }
- p {
+ p,
+ div {
    color: #CDDC39;
  }
 section{
