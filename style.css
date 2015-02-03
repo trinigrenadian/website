@@ -70,7 +70,7 @@ section{
 }
 #features{
  background-image: none;
- background-color: #4A6AC8;
+ background-color:rgba(165, 224, 140, 1);
  height: 250px;
 }
 button{
