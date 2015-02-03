@@ -7,7 +7,7 @@ body {
    color: #0000;
    font-size: 24px;
    font-family: 'impact', Haettenschweiler, "Arial Narrow Bold", Sans-serif;
-   padding: 5px;
+   padding: 20px;
    margin:0;
    
 }
@@ -70,7 +70,7 @@ section{
 }
 #features{
  background-image: none;
- background-color:rgba(164, 237, 132, 1);
+ background-color:rgba(203, 206, 184, 1);
  height: 250px;
 }
 button{
