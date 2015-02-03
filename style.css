@@ -48,9 +48,11 @@ font-family:Georgia;
 color:#00796B;
  }
  p {
+   backgroun-color: yellow;
+   
    color: #CDDC39;
    font-size: 24px;
-   font-style: italic;
+   font-family: 'impact', Hattenschweiler, "Arial Narrow Bold", Sans-serif;
  }
   div {
    color: black;
