@@ -58,6 +58,7 @@ section{
  background-image: url(http://payload88.cargocollective.com/1/8/282864/4079530/mountain_900.jpg);
  height:800px;
  background-size:cover;
+ margin: 0;
 }
 #features{
  background-image: none;
