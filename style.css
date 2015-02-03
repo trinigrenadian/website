@@ -23,12 +23,13 @@ p:hover{
   text-decoration:none;
   color: #CDDC39;
   background-color:#F0F4CE;
-  border-radius:black;
-  margin:15px;
+  border-radius:2PX;
+  margin: 5px;
   padding: 5px;
   display: inline-block;
-  transition: 2s all;
+  transition: 1s all;
  }
+
  h2{
 font-size:72px;
 font-family:Georgia;
