@@ -2,7 +2,15 @@ body {
  background-color: amber;
  margin:0;
 }
- 
+ p {
+   background-color: #BFE659;
+   color: 0000;
+   font-size: 24px;
+   font-family: 'impact', Haettenschweiler, "Arial Narrow Bold", Sans-serif;
+   margin: 0;
+   padding: 220px;
+   
+}
  nav a{
   text-decoration:none;
   color: #CDDC39;
@@ -72,7 +80,4 @@ button{
   border-radius:black;
   padding: 5px;
   margin-top: 40px;
-p{
- margin: 0;
 }
-
