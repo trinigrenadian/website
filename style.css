@@ -60,12 +60,12 @@ section{
 }
 #features{
  background-image: none;
- background-color: blue;
+ background-color: #4A6AC8;
  height: 250px;
 }
 button{
   color: #CDDC39;
-  background-color:#F0F4CE;
+  background-color: rgba(191, 230, 89, 1);;
   border:none;
   border-radius:black;
   padding: 5px;
