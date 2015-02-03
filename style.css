@@ -58,6 +58,10 @@ section{
  height:800px;
  background-size:cover;
 }
+#features{
+ background-color: blue;
+ height: 250px;
+}
 button{
   color: #CDDC39;
   background-color:#F0F4CE;
