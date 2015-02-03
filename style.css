@@ -16,7 +16,7 @@ body {
 p:hover{
  margin-top: -10px;
  transform: rotate(-7deg);
- transition: 2s all;
+ transition: 1.5s all;
  
 }
  nav a{
