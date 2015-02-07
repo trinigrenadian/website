@@ -63,7 +63,8 @@ header h1{
 }
 header h2 {
  font-family: 'Dawning of a New Day', cursive;
- font-size: 36px;
+ font-size: 20px;
+ color:#689F38;
 }
 header img{
  border-radius: 50%;
