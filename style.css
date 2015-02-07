@@ -43,8 +43,11 @@ nav a:hover{
 } 
 header {
  text-align: center;
- 
 }
+ header img{
+ border-radius: 50%;
+}
+
 header h1{
  font-family: 'Satisfy', cursive;
  font-size: 72px;
