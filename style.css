@@ -38,17 +38,6 @@ p:hover{
   transition: 1s all;
   margin-left: 25px;
  }
-
- h2{
-font-size:72px;
-font-family:Georgia;
-rounded-radius: 2px;
-margin:50px;
-padding: 5px;
-display: inline-block;
-
- }
-
 nav a:hover{
  background-color: #8BC34A;
  transition: 1s all;
