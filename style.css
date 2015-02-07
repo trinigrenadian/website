@@ -3,8 +3,7 @@ div {
  margin-right:25px;
 }
 nav {
- margin-left: 25px;
- padding: 30px;
+
 }
 
 body {
@@ -34,9 +33,10 @@ p:hover{
   background-color:#F0F4CE;
   border-radius:2PX;
   margin: 5px;
-  padding: 5px;
+  padding: 10px;
   display: inline-block;
   transition: 1s all;
+  margin-left: 25px;
  }
 
  h2{
