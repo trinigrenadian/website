@@ -25,9 +25,6 @@ p:hover{
  margin-top: -10px;
  transform: rotate(-7deg);
  transition: 1s all;
- 
-
-
  }
  nav a{
   text-decoration:none;
@@ -59,10 +56,6 @@ header h2 {
  font-size: 20px;
  color:#689F38;
 }
-header img{
- border-radius: 50%;
-}
-
  h3{
 font-size:30px;
 font-family:Georgia;
