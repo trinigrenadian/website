@@ -1,6 +1,8 @@
 div {
  margin-top: 0;
  margin-right:40px;
+   color: black;
+   font-size: 18px;
 }
 
 body {
@@ -62,10 +64,7 @@ font-family:Georgia;
 color:#00796B;
  }
 
-  div {
-   color: black;
-   font-size: 18px;
- }
+
 section{
  margin-top:5px;
  text-align: center;
