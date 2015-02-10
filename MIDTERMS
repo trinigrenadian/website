@@ -7,10 +7,13 @@
 9 </head> 
 10 <body> 
 <header>
+<section>
 <h1>Midterm Exam</h1>
  <h2>IM1200 Basic Web Design</h2>
  <h4>Your Name</h4>
  <h4>Today's Date</h4>
+ </section>
+ </header>
 
  </body> 
 </html> 
