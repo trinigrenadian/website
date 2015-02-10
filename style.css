@@ -8,7 +8,26 @@ div #contactInfo {
 {body-style="color:#cc0000;font-size:13px;"
 margin: 15px;
 }
-
+div #contentInfo-1 {
+ float: left;
+width: 200px;
+}
+div #contentInfo-2 {
+ float: center;
+width: 200px;
+}
+div #contentInfo-3 {
+ float: right;
+width: 200px;
+}
+div #contactInfo-1{
+ float: left;
+ width: 200px;
+}
+div #contactInfo-2{
+ float: right;
+ width: 200px;
+}
 body {
  background-color: #FFF;
  margin:0;
