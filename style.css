@@ -6,6 +6,8 @@ div {
 }
 div #contentInfo{
  display: inline-block;
+ color: white;
+ font-size: 15px;
 }
 div #contactInfo {
 
