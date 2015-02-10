@@ -5,9 +5,9 @@ div {
    font-size: 18px;
 }
 div #contentInfo{
- display: inline-block;
- font-color: white;
- font-size: 15px;
+ 
+ color: white;
+ font-size: 25px;
 }
 div #contactInfo {
 
