@@ -4,26 +4,23 @@ div {
    color: black;
    font-size: 18px;
 }
-div #contentInfo {
+div #contentInfo{
  display: inline-block;
 }
 div #contactInfo {
-{body-style="color:#cc0000;font-size:13px;"
-margin: 15px;
+body-style="color:#cc0000;font-size:13px";
 display: inline;
-
-font-size:18px;
-  text-decoration: none;
-  color:darkGreen;
-  background-color:rgb(127, 255, 0);
-  border: 1px solid rgb(34, 139, 34);
-  text-shadow:0 1px 0 white;
-  width: 250px;
-  display: block;
-  border-radius: 5px;
-  padding: 10px;
-  box-shadow: 0 1px 1px lightGreen, inset 0 1px 0;(honeyDew, lightGreen);
-  margin: 10px auto 10px auto;
+ font-size:18px;
+ text-decoration: none;
+ color:darkGrey;
+ border: 1px solid rgb(105, 105, 105);
+ text-shadow:0 1px 0 white;
+ width: 250px;
+ display: block;
+ border-radius: 5px;
+ padding: 10px;
+ box-shadow: 0 1px 1px lightGreen, inset 0 1px 0;rgb(220 220 220);
+ margin: 10px auto 10px auto;
 }
 
 body {
