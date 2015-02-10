@@ -14,9 +14,7 @@ div #contactInfo {
  text-decoration: none;
  color:white;
  display: block;
-
 }
-
 body {
  background-color: #FFF;
  margin:0;
@@ -51,6 +49,7 @@ p:hover{
 nav a:hover{
  background-color: #8BC34A;
  transition: 1s all;
+ text-decoration: none;
 } 
 header {
  text-align: center;
@@ -58,7 +57,6 @@ header {
  header img{
  border-radius: 50%;
 }
-
 header h1{
  font-family: 'Satisfy', cursive;
  font-size: 72px;
