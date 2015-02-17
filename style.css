@@ -104,3 +104,6 @@ button{
 div-id: {
  margin-left:115px;font-size:12px;line-height:14px;
 }
+.menu-selected {
+ background-color:#888888;
+}
