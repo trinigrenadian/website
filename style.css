@@ -107,3 +107,7 @@ div-id: {
 .menu-selected {
  background-color: green;
 }
+table{
+ width: 1214px;
+ margin:0 auto;
+}
