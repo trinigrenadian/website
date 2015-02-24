@@ -109,7 +109,7 @@ div-id: {
 .menu-selected {
  background-color: green;
 }
-table{
+table {
  width: 500px;
  margin:0 auto;
 }
@@ -122,8 +122,6 @@ footer{
  color: #689F38;
  
 }
-ul{
- align: center;}
 
 .button {
    border-top: 1px solid #6a8753;
