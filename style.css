@@ -97,11 +97,9 @@ section{
  color: white;
  font-family: Georgia;
 }
- article{
- align-center;
-}
+
 ul{
- align: center;
+ margin-left:100px;
 }
 button{
   color: #FFFF;
