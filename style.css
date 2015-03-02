@@ -100,6 +100,9 @@ section{
  article{
  align-center;
 }
+ul{
+ align: center;
+}
 button{
   color: #FFFF;
   background-color: rgba(191, 230, 89, 1);
