@@ -92,8 +92,13 @@ section{
  background-image: none;
  background-color:rgba(210, 204, 180, 1);
  height: 250px;
- article }
- aligh-center;
+}
+#events{
+ color: white;
+ font-family: Georgia;
+}
+ article{
+ align-center;
 }
 button{
   color: #FFFF;
