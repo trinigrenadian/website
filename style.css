@@ -97,6 +97,9 @@ section{
  color: white;
  font-family: Georgia;
 }
+elements.style{
+ color: white;
+}
 
 ul{
  margin-left:150px;
