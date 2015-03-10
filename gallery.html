@@ -2,10 +2,11 @@
 <html>
 <head>
 <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAABQIAGButAAp6TQAF95YA8PXyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAREAAAAAAAAQzNAAAAAAARDM0QAAAAARDMzI0AAAARDMzISRAAARDMzMyM0QAREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" /><link href="style.css" rel="stylesheet">
+<link href="css/lightbox.css" rel="stylesheet" />
 <link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
 <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel='stylesheet'>
-<title>Resume</title>
+<title>Gallery</title>
 </head>
 <body>
 
@@ -26,9 +27,14 @@
 <main>
 <table>
 <tr>
-  <td><img src="https://farm8.staticflickr.com/7449/15942716453_d81726ccaf_q.jpg" alt="Portfolio piece 1"></td>
-  <td><img src="https://farm5.staticflickr.com/4103/5034089842_dbe6583002_q.jpg" alt="Portfolio piece 2"></td>
-  <td><img src="https://farm5.staticflickr.com/4154/5033469565_4f385f2ca1_q.jpg" alt="Portfolio piece 3"></td>
+  <td><a href="https://farm8.staticflickr.com/7449/15942716453_d81726ccaf_q.jpg" data-lightbox="image-1" data-title="My caption">
+  <img src="https://farm8.staticflickr.com/7449/15942716453_d81726ccaf_q.jpg" alt="Portfolio piece 1"></a></td>
+  
+  <td><a href="https://farm5.staticflickr.com/4103/5034089842_dbe6583002_q.jpg" data-lightbox="image-2">
+  <img src="https://farm5.staticflickr.com/4103/5034089842_dbe6583002_q.jpg" alt="Portfolio piece 2"></a></td>
+  
+  <td><a href="https://farm5.staticflickr.com/4154/5033469565_4f385f2ca1_q.jpg" data-lightbox="image-3">
+  <img src="https://farm5.staticflickr.com/4154/5033469565_4f385f2ca1_q.jpg" alt="Portfolio piece 3"></a></td>
 </tr>
 <tr>
 <td><img src="https://farm5.staticflickr.com/4111/4990491546_d8acdb1634_q.jpg" alt="Portfolio piece 4"></td>
@@ -57,8 +63,10 @@
 <img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/128/Aquicon-Instagram.png" width="25">
 </a>
 </footer>
-<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-  
+
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="js/lightbox.min.js"></script>
+ 
 </body>
 </html>
 
