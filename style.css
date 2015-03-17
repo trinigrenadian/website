@@ -173,8 +173,7 @@ footer{
 }
 .rw-sentence{
 	margin: 0;
-	text-align: left;
-	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+	text-align: center;
 }
 .rw-sentence span{
 	color: #444;
